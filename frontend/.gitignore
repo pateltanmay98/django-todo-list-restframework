@@ -58,3 +58,12 @@ packages/react-devtools-timeline/dist# See https://help.github.com/articles/igno
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# css
+/public/assets/css/bootstrap.min.css
+/public/assets/css/bootstrap.min.css.map
+
+# js
+/public/assets/js/bootstrap.min.js
+/public/assets/js/bootstrap.min.js.map
+/public/assets/js/jquery.min.js
