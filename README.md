@@ -1,1 +1,1 @@
-# django-toto-list
+# django-todo-list
